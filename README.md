@@ -1,4 +1,4 @@
-# Sonatype Nexus - Old Package Remover (YUM Repositorys)
+# Sonatype Nexus - Old Package Remover (YUM Repositories)
 
 This script removes old unused packages from yum repositories by reading the yum repo XML and comparing the file names.  
 
